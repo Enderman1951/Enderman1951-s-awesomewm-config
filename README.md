@@ -1,1 +1,1 @@
-make sure to install alacritty and nitrogen
+make sure to install alacritty, nitrogen and dmenu
