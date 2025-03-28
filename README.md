@@ -1,1 +1,1 @@
-# Enderman1951-s-awesomewm-config
+make sure to install alacritty and nitrogen
